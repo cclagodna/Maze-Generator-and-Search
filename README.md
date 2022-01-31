@@ -1,5 +1,5 @@
 # Maze-Generator-and-Search
-A maze generator developed for CSI4130 - Artificial Intelligence class.
+A maze generator developed for my Winter 2022 CSI4130 - Artificial Intelligence class.
 
 
 
